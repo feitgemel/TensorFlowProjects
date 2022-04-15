@@ -1,0 +1,16 @@
+
+conda create -n Flowers python=3.7
+conda activate Flowers
+
+pip install tensorflow
+pip install tensorflow-gpu
+
+pip install numpy 
+pip install matplotlib
+pip install opencv-python
+pip install sklearn
+pip install pandas
+pip install imutils
+
+# dataset
+https://www.kaggle.com/alxmamaev/flowers-recognition

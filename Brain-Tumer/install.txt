@@ -1,0 +1,19 @@
+conda create -n Brain python=3.7
+conda activate Brain
+
+pip install tensorflow
+pip install tensorflow-gpu
+
+pip install numpy
+pip install pillow
+pip install SciPy
+pip install matplotlib
+pip install imutils
+pip install pandas
+pip install opencv-python
+
+
+DataSet : 
+=========
+
+https://www.dropbox.com/s/jztol5j7hvm2w96/brain_tumor%20data%20set.zip
