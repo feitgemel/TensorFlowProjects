@@ -69,7 +69,7 @@ model.add(Dense(classesNum , activation='softmax'))
 print (model.summary())
 
 
-model.compile(optimizer='SGD', loss='categorical_crossentropy', metrics=['accuracy'])
+model.compile(optimizer='Adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
 from keras.callbacks import ModelCheckpoint , EarlyStopping
 checkpoint = ModelCheckpoint('C:/Python-cannot-upload-to-GitHub/Weather/weather-data/MyVgg19Option2.h5', 
@@ -81,7 +81,7 @@ earlystop = EarlyStopping(monitor='val_accuracy', patience=5 , verbose=1)
 
 # fit the model (Training)
 
-result = model.fit(train_data_set, validation_data=valid_data_set , epochs=30, verbose=1 , callbacks=[checkpoint,earlystop])
+result = model.fit(train_data_set, validation_data=valid_data_set , epochs=15, verbose=1 , callbacks=[checkpoint,earlystop])
 
 # plot accuracy 
 plt.plot(result.history['accuracy'], label='train accuracy')
