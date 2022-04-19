@@ -1,0 +1,14 @@
+#dataset : 
+https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset
+
+conda create -n weather-predict-CNN python=3.7
+conda activate weather-predict-CNN
+
+pip install tensorflow
+pip install tensorflow-gpu
+pip install pillow
+pip install SciPy
+pip install matplotlib
+pip install pandas
+pip install numpy
+
