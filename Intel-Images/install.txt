@@ -1,0 +1,17 @@
+# dataset
+https://www.kaggle.com/puneet6060/intel-image-classification
+
+
+conda create -n Intel-images python=3.7
+conda activate Intel-images
+
+pip install tensorflow
+pip install tensorflow-gpu
+
+pip install numpy 
+pip install matplotlib
+pip install opencv-python
+pip install sklearn
+pip install pandas
+pip install imutils
+
