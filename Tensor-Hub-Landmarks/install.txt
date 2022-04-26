@@ -1,0 +1,17 @@
+#google models :
+https://tfhub.dev/google/collections/landmarks/1
+inside you can choose Continent (Europe , Africa , etc .....)
+
+
+conda create -n TensorHubLandmarks python=3.7
+conda activate TensorHubLandmarks 
+
+pip install tensorflow
+#pip install tensorflow-gpu
+pip install --upgrade tensorflow_hub
+
+pip install numpy
+pip install pandas
+pip install pillow
+pip install opencv-python
+
