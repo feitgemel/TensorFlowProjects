@@ -1,0 +1,15 @@
+#dataset : 
+https://www.kaggle.com/datasets/niteshfre/chessman-image-dataset
+
+
+conda create -n ChessCNN python=3.7
+conda activate ChessCNN
+
+pip install tensorflow
+pip install tensorflow-gpu
+pip install pillow
+pip install SciPy
+pip install matplotlib
+pip install pandas
+pip install numpy
+pip install opencv-python
