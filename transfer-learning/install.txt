@@ -1,0 +1,14 @@
+#Mobilen net classes : 
+https://deeplearning.cms.waikato.ac.nz/user-guide/class-maps/IMAGENET/
+
+
+conda create -n TransferLearn python=3.7
+conda activate TransferLearn
+
+pip install tensorflow
+pip install tensorflow-gpu
+pip install pillow
+pip install numpy
+pip install opencv-python
+pip install matplotlib
+pip install SciPy
