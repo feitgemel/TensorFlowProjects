@@ -1,0 +1,19 @@
+
+# Requirements : Nvidia GPU card & and Cuda tool kit install
+# I am using this card : https://amzn.to/3mTa7HX
+# Working Anaconda enviroment
+
+conda create -n TensorHubsound python=3.9
+conda activate TensorHubsound 
+
+# Install dependences.
+
+pip install numpy 
+pip install resampy 
+pip install tensorflow 
+pip install soundfile 
+pip install sounddevice
+
+pip install tensorflow_hub
+
+
