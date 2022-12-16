@@ -1,0 +1,10 @@
+
+
+# Data set :
+https://www.kaggle.com/datasets/e0b49b351ee4af68d0020f5c7dc5318f9d17280591afa8a213e3c15638e0e5a9
+
+pip install tensorflow
+pip install numpy
+pip install matplotlib
+pip install opencv-python
+
