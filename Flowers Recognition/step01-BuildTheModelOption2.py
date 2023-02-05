@@ -21,7 +21,7 @@ train_set = train_datagen.flow_from_directory(TRAIN_DIR, target_size=(64,64), ba
 
 val_datagen = ImageDataGenerator(rescale = 1. / 255)
 
-val_set = train_datagen.flow_from_directory(VAL_DIR, target_size=(64,64), batch_size=32 , class_mode='categorical')
+val_set = val_datagen.flow_from_directory(VAL_DIR, target_size=(64,64), batch_size=32 , class_mode='categorical')
 
 # build the model
 model = tf.keras.models.Sequential()
