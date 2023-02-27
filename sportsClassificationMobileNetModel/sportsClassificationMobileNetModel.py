@@ -49,6 +49,7 @@ print ('============================================')
 # lets change the working directory .
 
 os.chdir('C:/SportsImages')
+#os.chdir('C:/Python-cannot-upload-to-GitHub/73-Sports-Image-Classification')
 
 # the folders inside this directory are :
 
