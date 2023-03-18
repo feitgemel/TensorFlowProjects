@@ -15,7 +15,7 @@ Whether you're interested in building your own image classification models or wa
 
 You can find the link for the [tutorial](https://youtu.be/oh7UO4IoAls) here. 
 
-You can find more cool Atari projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
+You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 
 Enjoy
 
