@@ -1,20 +1,20 @@
-# Building a CNN Model for Chess Piece Recognition in Python and Tensorflow
+# TensorFlow Transfer Learning: Classify Images with Mobilenet and Python
 
 <p align="center">
-  <img width="800" src="chess.png" "image">
+  <img width="800" src="Mobilenet.png" "image">
 </p>
 
 ##
 <br/><br/> 
 
 <font size= "4" >
-Are you interested in learning about how to use Convolutional Neural Networks in Python to predict chess pieces? 
+In this tutorial, you'll learn how to use TensorFlow and Mobilenet to classify images through transfer learning. Transfer learning is a technique that allows you to take pre-trained models and adapt them to new use cases, making it an efficient way to build powerful image recognition systems.
 <br/><br/> 
-Look no further than this step-by-step tutorial! In this video, we will take you through the process of building and training a convolutional neural network model using TensorFlow and Keras. We will use a dataset of chess piece images to train the model and show you how to evaluate its performance. By the end of this tutorial, you will be able to use the trained model to predict the class of a new chess piece image
+We'll start by installing the necessary Python libraries, and then walk you through the process of training a Mobilenet model to classify images. You'll learn how to preprocess the image data, fine-tune the model, and evaluate its performance using validation data. By the end of this tutorial, you'll have a solid understanding of how to use TensorFlow and Mobilenet for image classification, and be able to apply these techniques to your own image recognition projects. Whether you're a beginner or an experienced data scientist, this tutorial will give you the tools you need to build sophisticated image recognition systems with ease.
 <br/><br/> 
 It is based on Tensorflow and keras.
 
-You can find the link for the [tutorial](https://youtu.be/Y2MkEuZ3AEw) here. 
+You can find the link for the [tutorial](https://youtu.be/xsBm_DTSbB0) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 
