@@ -14,10 +14,14 @@ In this step-by-step guide, you'll learn how to gather and preprocess a dataset 
 
 🔥 What You'll Learn:
 
-🔹 Data Collection and Preprocessing: Discover how to acquire and prepare retinal images for optimal model training.
-🔹 CNN Architecture Design: Create a customized architecture tailored to retinal image classification.
-🔹 Training Process: Explore the intricacies of model training, including parameter tuning and validation techniques.
-🔹Model Evaluation: Learn how to assess the performance of your trained CNN on a separate test dataset.
+🔹 Data Collection and Preprocessing: Discover how to acquire and prepare retinal images for optimal model training. 
+
+🔹 CNN Architecture Design: Create a customized architecture tailored to retinal image classification. 
+
+🔹 Training Process: Explore the intricacies of model training, including parameter tuning and validation techniques. 
+
+🔹Model Evaluation: Learn how to assess the performance of your trained CNN on a separate test dataset. 
+
 <br/><br/> 
 It is based on Tensorflow and keras.
 
