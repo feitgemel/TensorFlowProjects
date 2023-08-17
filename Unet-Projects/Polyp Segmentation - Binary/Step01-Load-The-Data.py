@@ -26,8 +26,8 @@ img = cv2.resize(img , (width,height))
 mask = cv2.imread(maskPath+"/1.png", cv2.IMREAD_GRAYSCALE)
 mask = cv2.resize(mask , (width,height))
 
-#cv2.imshow("img", img)
-#cv2.imshow("mask", mask)
+cv2.imshow("img", img)
+cv2.imshow("mask", mask)
 
 
 # lets look at the values of the mask
@@ -44,7 +44,7 @@ resizeto16[resizeto16 > 50 ] = 1
 
 print(resizeto16)
 
-#cv2.waitKey(0)
+cv2.waitKey(0)
 
 # create the Numpy arrays :
 
