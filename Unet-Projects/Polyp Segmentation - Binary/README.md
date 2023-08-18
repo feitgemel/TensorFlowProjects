@@ -49,7 +49,7 @@ A perfect course for learning modern Computer Vision with deep dive in TensorFlo
 
 Perfect course for every computer vision enthusiastic
 
-Before we continue , I actually recommend this [book](https://amzn.to/3STWZ2N) for deep learning based on Tensorflow and Keras : 
+Before we continue , I actually recommend this [book](https://amzn.to/3STWZ2N) for deep learning based on Tensorflow and Keras. 
 
 
 
