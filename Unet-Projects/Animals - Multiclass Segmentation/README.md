@@ -1,7 +1,7 @@
 # Creating an Animal Segmentation Model with U-Net and TensorFlow Keras
 
 <p align="center">
-  <img width="800" src="Unet - segment people.jpg" "image">
+  <img width="800" src="Unet- Animals.png" "image">
 </p>
 
 ##
