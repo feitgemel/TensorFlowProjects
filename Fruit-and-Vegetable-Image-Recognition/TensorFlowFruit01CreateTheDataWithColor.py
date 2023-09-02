@@ -6,7 +6,6 @@ import os
 import cv2
 import numpy as np
 from numpy import save
-from numpy.core.defchararray import index
 
 # Array of all the classes 
 
