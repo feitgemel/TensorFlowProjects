@@ -15,12 +15,17 @@ In this tutorial, You'll learn how to build an image classification model capabl
 
 🔍 What's Covered in this Video: 🔍
 
-📦 Dataset Download: We'll start by obtaining a large sports image dataset from Kaggle, carefully curated with 21 unique sports categories.
-🏋️‍♂️ Model Building: Using TensorFlow and Keras, we'll dive into the architecture of MobileNet, a pre-trained model. We'll then customize it for our specific classification task.
-🖼️ Data Preparation: Learn how to preprocess and organize your data into train, validation, and test sets, ensuring your model has a solid foundation to learn from.
-🧠 Model Training: We'll guide you through the process of training your model, fine-tuning it to achieve impressive accuracy.
-📊 Model Evaluation: Discover how to assess the performance of your sports image classifier and understand the results.
-📸 Real-World Predictions: Watch as we make predictions on new sports images, overlaying the predicted class for a real-world demonstration of our model in action.
+📦 Dataset Download: We'll start by obtaining a large sports image dataset from Kaggle, carefully curated with 21 unique sports categories. 
+
+🏋️‍♂️ Model Building: Using TensorFlow and Keras, we'll dive into the architecture of MobileNet, a pre-trained model. We'll then customize it for our specific classification task. 
+
+🖼️ Data Preparation: Learn how to preprocess and organize your data into train, validation, and test sets, ensuring your model has a solid foundation to learn from. 
+
+🧠 Model Training: We'll guide you through the process of training your model, fine-tuning it to achieve impressive accuracy. 
+
+📊 Model Evaluation: Discover how to assess the performance of your sports image classifier and understand the results. 
+
+📸 Real-World Predictions: Watch as we make predictions on new sports images, overlaying the predicted class for a real-world demonstration of our model in action. 
 
 
 <br/><br/> 
