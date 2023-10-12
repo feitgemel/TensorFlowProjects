@@ -52,5 +52,9 @@ If you have any suggestions about papers, feel free to mail me :)
 - [🐦 Twitter](https://twitter.com/eran_feit )
 - [😸 GitHub](https://github.com/feitgemel)
 - [📸 Instagram](https://www.instagram.com/eran_feit/)
+- [🤝 Fiverr ](https://www.fiverr.com/s/mB3Pbb)
+- [📝 Medium ](https://medium.com/@feitgemel)
+
+
 </font>
 

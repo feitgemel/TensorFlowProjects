@@ -1,26 +1,30 @@
 # Building a CNN Model for Chess Piece Recognition in Python and Tensorflow
 
 <p align="center">
-  <img width="800" src="how to classify sound using tensor hub.png" "image">
+  <img width="800" src="CNN - Malaria.png" "image">
 </p>
 
 ##
 <br/><br/> 
 
 <font size= "4" >
-Do you want to learn how to classify audio data using deep learning and TensorFlow Hub? 
+Welcome to our tutorial on Malaria cell classification using Convolutional Neural Networks (CNN) and Python.  We will make it very simple to understand and process this classification 
+
 <br/><br/> 
-Check out our latest tutorial on Audio classification using deep learning and TensorFlow Hub! 
- <br/><br/> 
-We'll walk you through the entire process step-by-step, from setting up your environment to training and testing your audio classifier.
+
+* Part 1: Data Preparation
+In the first part, we'll guide you through the process of downloading the dataset and preparing it for training. We learn to prepare the data split the dataset for training and testing, and make all the relevant requirements needed for the training.
+
+* Part 2: CNN Model Building and Training
+The heart of this tutorial lies in Part 2, where we dive into building a simple CNN model. We will customize the model, define the layers , and train the model using the prepared data. We will save the best weights of the train process.
+
+* Part 3: Model Testing and Prediction
+In the final part, we'll put our trained model to the test. We'll take a fresh image that the model has never seen before and use it to demonstrate how our model can classify it as infected or non-infected.  
+ 
 <br/><br/> 
-Tensorflow Hub has cool pre-trained models. 
-Imagine you have a audio file , and you would like to detect if it is a sound of a cat , or the sounds of water , or maybe to classify music.
- <br/><br/> 
-So, in this tutorial we will learn how to use this tensor hub model on your own audio files .
 It is based on Tensorflow and keras.
 
-You can find the link for the [tutorial](https://youtu.be/_iX0VRp7UEA) here. 
+You can find the link for the [tutorial](hhttps://youtu.be/WlPuW3GGpQo) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 
@@ -61,6 +65,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 
 </font>
-
-
 

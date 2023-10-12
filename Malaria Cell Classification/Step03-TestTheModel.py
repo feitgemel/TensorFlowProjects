@@ -13,7 +13,7 @@ categories = ["infected" , "uninfected"]
 def prepareImage(img):
     resized = cv2.resize(img , input_shape, interpolation=cv2.INTER_AREA)
     imgResult = np.expand_dims(resized , axis=0)
-    imgResult - imgResult / 255.
+    imgResult =   imgResult / 255.
     return imgResult
 
 # load test image
