@@ -1,7 +1,7 @@
 # TensorFlow CNN Tutorial: Flower Classification with Python 🌷
 
 <p align="center">
-  <img width="800" src="chess.png" "image">
+  <img width="800" src="classify flowers.png" "image">
 </p>
 
 ##
