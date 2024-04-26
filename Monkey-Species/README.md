@@ -1,7 +1,7 @@
 # 🐒🍌 Image classification tutorial series! 🐒🍌
 
 <p align="center">
-  <img width="800" src="How to classify monkey species using Tensor flow_ CNN and Keras Hyper parameters.png" "image">
+  <img width="800" src="How to classify monkey species using Tensor flow : CNN and Keras Hyper parameters.png" "image">
 </p>
 
 ##
