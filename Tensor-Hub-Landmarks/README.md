@@ -7,6 +7,15 @@
 ##
 <br/><br/> 
 
+**<font size="5">Hi there,
+I've devoted a lot of time and effort to creating this content. <br/> 
+If you could show your appreciation by buying me a coffee for just $1, I would be truly grateful : https://ko-fi.com/eranfeit**
+
+<br/><br/>
+<font size= "7" >
+Summary : <br/>
+
+
 <font size= "4" >
 This is a Tensorflow Hub tutorial that enables you to classify landmarks images using the pre-trained Tensorhub platform 
 So what are the next steps ? how to use Tensorflow hub ? Follow this tutorial

@@ -1,5 +1,7 @@
 # Convolutional neural networks - Visualiztion methods
 
+
+
 <font size= "4" >
 
 Are you intersted in learning what CNN netwroks actualy see ?
@@ -17,6 +19,14 @@ Here there are several types of CNN visualization metohds :
 
 ##
 <br/><br/> 
+
+**<font size="5">Hi there,
+I've devoted a lot of time and effort to creating this content. <br/> 
+If you could show your appreciation by buying me a coffee for just $1, I would be truly grateful : https://ko-fi.com/eranfeit**
+
+<br/><br/>
+<font size= "7" >
+Summary : <br/>
 
 <font size= "4" >
 

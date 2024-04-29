@@ -7,6 +7,15 @@
 ##
 <br/><br/> 
 
+**<font size="5">Hi there,
+I've devoted a lot of time and effort to creating this content. <br/> 
+If you could show your appreciation by buying me a coffee for just $1, I would be truly grateful : https://ko-fi.com/eranfeit**
+
+<br/><br/>
+<font size= "7" >
+Summary : <br/>
+
+
 <font size= "4" >
 In this video tutorial, you'll discover how to classify car images using computer vision and deep learning.
 We'll be using Tensorflow and Keras to configure a Resnet50 model that can quickly and accurately classify car brands with transfer learning.  

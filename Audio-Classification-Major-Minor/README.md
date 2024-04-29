@@ -7,9 +7,17 @@
 ##
 <br/><br/> 
 
+**<font size="5">Hi there,
+I've devoted a lot of time and effort to creating this content. <br/> 
+If you could show your appreciation by buying me a coffee for just $1, I would be truly grateful : https://ko-fi.com/eranfeit**
+
+<br/><br/>
+<font size= "7" >
+Summary : <br/>
+
 <font size= "4" >
 Discover how to classify audio chords with our latest YouTube tutorial!
-<br/><br/> 
+<br/>
 In our latest video tutorial, we will show you how to use a convolutional neural network (CNN) to classify audio chords. 🎧🌈 
 
 We will start by examining a few audio files and playing them back. Then, we will code a transform process to convert the audio files to spectrogram images. Spectrogram images are visual representations of sound waves. They can be used to identify different frequencies and amplitudes, which can be used to classify chords.

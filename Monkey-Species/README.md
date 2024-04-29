@@ -7,6 +7,15 @@
 ##
 <br/><br/> 
 
+**<font size="5">Hi there,
+I've devoted a lot of time and effort to creating this content. <br/> 
+If you could show your appreciation by buying me a coffee for just $1, I would be truly grateful : https://ko-fi.com/eranfeit**
+
+<br/><br/>
+<font size= "7" >
+Summary : <br/>
+
+
 <font size= "4" >
 Welcome to our comprehensive image classification tutorial series! In this tutorial playlist, consisting of five informative videos, we will guide you through the entire process of classifying monkey species in images. 
 Each video focuses on a specific aspect of the process, providing you with a well-rounded understanding of the subject matter. 

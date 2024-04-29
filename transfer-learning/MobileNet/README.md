@@ -7,6 +7,15 @@
 ##
 <br/><br/> 
 
+**<font size="5">Hi there,
+I've devoted a lot of time and effort to creating this content. <br/> 
+If you could show your appreciation by buying me a coffee for just $1, I would be truly grateful : https://ko-fi.com/eranfeit**
+
+<br/><br/>
+<font size= "7" >
+Summary : <br/>
+
+
 <font size= "4" >
 In this tutorial, you'll learn how to use TensorFlow and Mobilenet to classify images through transfer learning. Transfer learning is a technique that allows you to take pre-trained models and adapt them to new use cases, making it an efficient way to build powerful image recognition systems.
 <br/><br/> 
