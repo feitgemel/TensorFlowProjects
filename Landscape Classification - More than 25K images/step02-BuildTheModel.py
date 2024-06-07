@@ -11,7 +11,7 @@ EPOCHS = 25
 # load the train images into dataset
 
 Train_dataset = tf.keras.preprocessing.image_dataset_from_directory(
-    "C:/Python-cannot-upload-to-GitHub/Intel-images/seg_train/seg_train",
+    "e:/Data-sets/Intel-images/seg_train/seg_train",
     shuffle=True,
     image_size = (IMAGE_SIZE,IMAGE_SIZE),
     batch_size = BATCH_SIZE 
@@ -26,7 +26,7 @@ print("number of classes : " + str(numberOfClasses))
 
 # load the validation images into dataset
 Validation_dataset = tf.keras.preprocessing.image_dataset_from_directory(
-    "C:/Python-cannot-upload-to-GitHub/Intel-images/seg_test/seg_test",
+    "e:/Data-sets/Intel-images/seg_test/seg_test",
     shuffle=True,
     image_size = (IMAGE_SIZE,IMAGE_SIZE),
     batch_size = BATCH_SIZE 
@@ -117,4 +117,4 @@ plt.title("Train and validation loss ")
 
 plt.show()
 
-model.save("C:/Python-cannot-upload-to-GitHub/Intel-images/MyModel.h5")
+model.save("e:/Temp/Landscape-Model.h5")

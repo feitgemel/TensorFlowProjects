@@ -1,7 +1,7 @@
 
-from sklearn.utils import shuffle
+#from sklearn.utils import shuffle
 import tensorflow as tf
-from tensorflow.keras import models, layers
+#from tensorflow.keras import models, layers
 import matplotlib.pyplot as plt
 import cv2
 
@@ -10,8 +10,11 @@ BATCH_SIZE = 32
 
 # load the images into dataset
 
+# dataset - More than 25K images
+#https://www.kaggle.com/puneet6060/intel-image-classification
+
 dataset = tf.keras.preprocessing.image_dataset_from_directory(
-    "C:/Python-cannot-upload-to-GitHub/Intel-images/seg_train/seg_train",
+    "e:/Data-sets/Intel-images/seg_train/seg_train",
     shuffle=True,
     image_size = (IMAGE_SIZE,IMAGE_SIZE),
     batch_size = BATCH_SIZE 

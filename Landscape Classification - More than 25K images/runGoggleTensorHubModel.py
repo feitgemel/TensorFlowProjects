@@ -5,7 +5,8 @@ import tensorflow as tf
 import tensorflow_hub as hub
 import cv2
 
-
+# dataset
+#https://www.kaggle.com/puneet6060/intel-image-classification
 
 modelUrl = "https://tfhub.dev/google/on_device_vision/classifier/landmarks_classifier_europe_V1/1"
 
