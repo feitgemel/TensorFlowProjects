@@ -1,4 +1,4 @@
-# Res-Unet make it easy to segment Melanona | TensorFlow Tutorial 🔍
+# How to Segment Skin Melanoma - using Resunet | TensorFlow Tutorial 🔍
 
 <p align="center">
   <img width="800" src="Melanoma - Res-Unet.png" "image">
