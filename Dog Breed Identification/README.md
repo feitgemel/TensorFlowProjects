@@ -17,14 +17,21 @@ Summary : <br/>
 
 <font size= "4" >
 🦕 Welcome to our dog breed recognition Tutorial, based on  the NasLarge pre-trained model 🦖
+
+In this hands-on video, we'll take you on an exciting journey through the world of deep learning and computer vision, as we guide you step-by-step in building a fine tune Convolutional Neural Network (CNN) pre-trained model to classify 120 dogs categories, based on Nas Large model.
+
+
 <br/><br/> 
 What You'll Learn:
 
-🔹 Data Preparation: We'll begin by downloading a curated dataset of dinosaur images, neatly categorized into five distinct classes. You'll learn how to load and preprocess the data using Python, OpenCV, and Numpy, ensuring it's perfectly ready for training.
+🔹 Data Preparation: We'll begin by downloading a dataset of of more than 20K Dogs images, neatly categorized into 120 classes. You'll learn how to load and preprocess the data using Python, OpenCV, and Numpy, ensuring it's perfectly ready for training.
 
-🔹 CNN Architecture and Transfer learning : We will load the the NasLarge model , discuss how to customize it for our need and run the train on our own dataset. (80% validation)
+🔹 CNN Architecture and the NAS model : We will use the Nas Large model , and customize it to our own needs. 
 
-🔹 Predicting New Images: Watch as we put our pre-trained model to the test! We'll showcase how to use the model to make predictions on fresh, unseen dogs images, and witness the results.
+🔹 Model Training: Harness the power of Tensorflow and Keras to define and train our custom CNN model based on  Nas Large model . We'll configure the loss function, optimizer, and evaluation metrics to achieve optimal performance during training.
+
+🔹  Predicting New Images: Watch as we put our pre-trained model to the test! We'll showcase how to use the model to make predictions on fresh, unseen dinosaur images, and witness the magic of AI in action.
+
 
 
 <br/><br/> 

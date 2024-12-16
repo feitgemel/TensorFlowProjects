@@ -1,7 +1,7 @@
 # Medical Polyp Image Segmentation with U-Net and TensorFlow Keras 🩺
 
 <p align="center">
-  <img width="800" src="Unet polyp.jpg" "image">
+  <img width="800" src="How to segment polyp colonoscopy using U-net.png" "image">
 </p>
 
 ##
