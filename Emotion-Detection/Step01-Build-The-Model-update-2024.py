@@ -1,3 +1,5 @@
+# Dataset : https://www.kaggle.com/datasets/msambare/fer2013
+
 import numpy as np
 import tensorflow as tf
 import cv2

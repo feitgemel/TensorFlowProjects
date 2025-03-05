@@ -1,0 +1,27 @@
+3. Create Conda enviroment :
+
+conda create -n tf217 python=3.11 
+conda activate tf217 
+
+nvcc --version
+
+4. Install :
+
+Instructions for Install Tensor flow with Cuda:
+https://www.tensorflow.org/install/pip#windows-wsl2_1
+
+# For GPU users for Cuda 12.3 
+pip install tensorflow[and-cuda]==2.17.1
+
+# For CPU users
+pip install tensorflow==2.17.1
+
+
+#More :
+pip install matplotlib==3.10.0
+pip install pandas==2.2.3
+pip install scikit-learn==1.6.0
+pip install seaborn==0.13.2
+pip install opencv-python==4.10.0.84
+
+
