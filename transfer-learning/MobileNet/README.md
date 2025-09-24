@@ -23,7 +23,8 @@ We'll start by installing the necessary Python libraries, and then walk you thro
 <br/><br/> 
 It is based on Tensorflow and keras.
 
-You can find the link for the [tutorial](https://youtu.be/xsBm_DTSbB0) here. 
+You can find the link for the [tutorial](https://eranfeit.net/tensorflow-transfer-learning-classify-images-with-mobilenet-and-python/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/xsBm_DTSbB0) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 

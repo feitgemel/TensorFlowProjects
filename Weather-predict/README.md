@@ -41,9 +41,14 @@ We will also learn how to predict those images using fine-tuning of Vgg19 transf
 
 <br/><br/> 
 
-We have two tutorial , so check these two links :
-You can find the link for the CNN [tutorial](https://youtu.be/gFiISJPCpKs) here. 
-The Transfer learning [tutorial](https://youtu.be/uw3WK0TcGH4) is in this second link.
+We have two tutorial , so check these links :
+
+You can find the link for the CNN [tutorial](https://eranfeit.net/%f0%9f%8c%a6%ef%b8%8f-cnn-tensorflow-image-classification-weather-image-classification-%f0%9f%8c%a6%ef%b8%8f/) here. 
+You can find the link for the CNN [Video tutorial](https://youtu.be/gFiISJPCpKs) here. 
+
+The Transfer learning [tutorial](https://eranfeit.net/how-to-classify-weather-scenes-using-tensorflow-keras-and-transfer-learning-vgg19/) is in this second link.
+The Transfer learning [Video tutorial](https://youtu.be/uw3WK0TcGH4) is in this second link.
+
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 

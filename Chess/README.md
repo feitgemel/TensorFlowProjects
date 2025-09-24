@@ -21,7 +21,8 @@ Look no further than this step-by-step tutorial! In this video, we will take you
 <br/><br/> 
 It is based on Tensorflow and keras.
 
-You can find the link for the [tutorial](https://youtu.be/Y2MkEuZ3AEw) here. 
+You can find the link for the [tutorial](https://eranfeit.net/building-a-cnn-model-for-chess-piece-recognition-in-python-and-tensorflow/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/Y2MkEuZ3AEw) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 

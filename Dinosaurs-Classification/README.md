@@ -33,7 +33,8 @@ What You'll Learn:
 <br/><br/> 
 It is based on Tensorflow and keras.
 
-You can find the link for the [tutorial](https://youtu.be/ZhTGcw0C3Dk) here. 
+You can find the link for the [tutorial](https://eranfeit.net/dinosaur-image-classification-with-cnn-tutorial/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/ZhTGcw0C3Dk) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 

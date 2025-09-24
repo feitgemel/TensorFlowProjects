@@ -26,7 +26,8 @@ We will install the relevant Python libraries , then search for the right pre-tr
 
 <br/><br/> 
 
-You can find the link for the [tutorial](https://youtu.be/IJ5Z9Awzxr4) here. 
+You can find the link for the [tutorial](https://eranfeit.net/how-to-classify-landmarks-using-tensorflow-tensor-hub-and-python/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/IJ5Z9Awzxr4) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 

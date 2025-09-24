@@ -36,8 +36,19 @@ In this tutorial, we will take you through the process of using the VGG16 model 
 <br/><br/> 
 This tutorial is designed for those with a good understanding of deep learning and computer vision techniques, and who are looking to take their knowledge to the next level. By the end of this video, you'll have a clear understanding of how to apply the Gradcam technique to VGG16 model and improve the accuracy of your image recognition systems.
 
+-----------------------------------------------------------------------
+CNN Feature Visualization with Activation Maximization in Keras (VGG16) :
 
-You can find the link for the [tutorial](https://youtu.be/DKvJcK4o3Vw) here. 
+You can find the link for the [tutorial](https://eranfeit.net/what-the-network-thinks-is-the-best-image-for-the-cnn-model-class-maximization-tutorial/) here.   
+
+You can find the link for the [Video tutorial](https://youtu.be/5J_b_GxnUBU?si=iJAoLmmbreZM_IdR) here. 
+-----------------------------------------------------------------------
+Understanding VGG16 with Gradcam :
+
+You can find the link for the [Video tutorial](https://youtu.be/DKvJcK4o3Vw?si=WTD0WNHNwY7Bro5O) here. 
+
+-----------------------------------------------------------------------
+
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 
@@ -47,10 +58,6 @@ Eran
 <br/><br/> 
 
 </font>
-
-# 2. TBD
-# 3. TBD 
-
 
 
 # Recommended courses and relevant products 

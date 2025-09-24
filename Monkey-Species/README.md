@@ -30,6 +30,8 @@ Discover how to download the necessary image data and explore its characteristic
 Learn how to preprocess and format the data to ensure it is ready for the subsequent phases of the classification process. 
 By the end of this tutorial, you will have a well-prepared dataset, laying the foundation for accurate and efficient classification.
 
+You can find the tutorial here : https://eranfeit.net/how-to-classify-monkeys-images-using-convolutional-neural-network-keras-tuner-hyper-parameters-and-transfer-learning-part1/ 
+
 You can find the video here : https://youtu.be/ycEzhwiAXjY
 
 <br/><br/> 
@@ -38,6 +40,8 @@ You can find the video here : https://youtu.be/ycEzhwiAXjY
 Our second video focuses on the fundamental method of classifying monkey species using a Convolutional Neural Network (CNN). 
 Join us as we guide you through the process of writing a CNN model, training it using the prepared dataset, and evaluating its performance. 
 Gain insights into the inner workings of CNNs and witness their effectiveness in accurately classifying monkey species based on image data.
+
+You can find the tutorial here : https://eranfeit.net/how-to-classify-monkeys-images-using-convolutional-neural-network-keras-tuner-hyper-parameters-and-transfer-learning-part2/  
 
 You can find the video here : https://youtu.be/FfmE3WWKDgE
  
@@ -49,6 +53,8 @@ In the third video, we take the CNN classification tutorial to the next level by
 Discover how to optimize the performance of your CNN model by automatically searching for the best hyperparameters. 
 Learn how to leverage the power of Keras Tuner to fine-tune your model and achieve even more accurate results in classifying monkey species.
 
+You can find the tutorial here : https://eranfeit.net/how-to-classify-monkeys-images-using-convolutional-neural-network-keras-tuner-hyper-parameters-and-transfer-learning-part3/  
+
 You can find the video here : https://youtu.be/RHMLCK5UWyk
 
 <br/><br/> 
@@ -59,6 +65,8 @@ In the fourth video, we explore an alternative approach to image classification 
 Join us as we guide you through the process of fine-tuning the VGG16 model for the task of monkey species classification. 
 Learn how to adapt a powerful pretrained model to accurately classify monkey species and leverage its advanced features for improved results.
 
+You can find the Tutorial here : https://eranfeit.net/how-to-classify-monkeys-images-using-convolutional-neural-network-keras-tuner-hyper-parameters-and-transfer-learning-part4/  
+
 You can find the video here : https://youtu.be/p9l9AgiVsqI 
 
 <br/><br/> 
@@ -68,6 +76,8 @@ You can find the video here : https://youtu.be/p9l9AgiVsqI
 In our fifth and final video, we delve into the fascinating world of model interpretability by exploring the outcome of deep neural network layers.
 Witness what a trained network "sees" as we dissect the layers and visualize their outputs for a specific class. 
 Gain a deeper understanding of how the network processes and interprets images, providing valuable insights into the classification process.
+
+You can find the full tutorial here : https://eranfeit.net/what-actually-sees-a-cnn-deep-neural-network-model/ 
 
 You can find the video here : https://youtu.be/yg4Gs5_pebY
 

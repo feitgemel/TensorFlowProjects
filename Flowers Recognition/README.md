@@ -31,7 +31,8 @@ What you'll learn:
 
 <br/><br/> 
 
-You can find the link for the [tutorial](https://youtu.be/AamKeCTRSKM) here. 
+You can find the link for the [tutorial](https://eranfeit.net/tensorflow-cnn-tutorial-flower-classification-with-python-%f0%9f%8c%b7/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/AamKeCTRSKM) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 

@@ -22,7 +22,8 @@ We'll be using Tensorflow and Keras to configure a Resnet50 model that can quick
 <br/><br/> 
 Whether you're interested in building your own image classification models or want to apply deep learning techniques to a variety of real-world problems, this tutorial is the perfect place to start !
 
-You can find the link for the [tutorial](https://youtu.be/oh7UO4IoAls) here. 
+You can find the link for the [tutorial](https://eranfeit.net/resnet50-tutorial-classifying-car-images-with-transfer-learning-and-tensorflow/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/oh7UO4IoAls) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 

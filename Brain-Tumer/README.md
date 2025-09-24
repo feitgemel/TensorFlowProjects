@@ -23,7 +23,8 @@ We will explore how CNNs are transforming the landscape of brain tumor classific
 Look no further than this step-by-step tutorial! In this video, we will take you through the process of building and training a convolutional neural network model using TensorFlow and Keras. We will use a dataset of chess piece images to train the model and show you how to evaluate its performance. By the end of this tutorial, you will be able to use the trained model to predict the class of a new brain image
 <br/><br/> 
 
-You can find the link for the [tutorial](https://youtu.be/-147KGbGI3g) here. 
+You can find the link for the [tutorial](https://eranfeit.net/brain-tumor-classification-using-deep-learning/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/-147KGbGI3g) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 

@@ -24,6 +24,8 @@ During this tutorial, we will guide you through the essential stages, starting f
 Next, we will demonstrate how to test the model on a fresh new image and accurately predict the emotion of the face.
 Feel free to subscribe to our channel and stay updated with our upcoming videos!
 
+You can find the tutorial here : https://eranfeit.net/cnn-model-for-emotion-detection-tensorflow-and-keras-tutorial-%f0%9f%96%a5%ef%b8%8f%f0%9f%a4%94%f0%9f%98%80/
+
 You can find the video here : https://youtu.be/bp8OpasGtV4
 
 It is all based on Tensorflow and keras.
